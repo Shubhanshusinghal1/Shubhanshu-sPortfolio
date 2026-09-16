@@ -54,7 +54,7 @@ const About2 = ({ clientHeight }) => {
           >
             strong
           </span>{" "}
-          understanding of Data structures and algorithms and CS fundamentals like OOPS, DBMS, CN AND OS and low level System Design.
+          grasp of Data Structures & Algorithms, Low-Level System Design, and core CS fundamentals — OOP, DBMS, Operating Systems, and Computer Networks — that I apply to build reliable, production-grade systems.
         </h2> 
       </div>
     </section>
