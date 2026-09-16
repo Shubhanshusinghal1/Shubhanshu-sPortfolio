@@ -11,6 +11,16 @@ const Work = ({ isDesktop }) => {
   const tabItems = useMemo(
   () => [
     {
+      title: "Kaabil Finance",
+      value: "kaabil_finance",
+      content: (
+        <StickyScroll
+          isDesktop={isDesktop}
+          contentItems={WORK_CONTENTS.KAABIL_FINANCE}
+        />
+      ),
+    },
+    {
       title: "GECS Labs",
       value: "gecs_labs",
       content: (

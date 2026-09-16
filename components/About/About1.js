@@ -56,12 +56,14 @@ const About1 = ({ clientHeight }) => {
           className="font-medium text-[2.70rem] md:text-6xl lg:text-[4rem] text-center"
         >
           <span className="about-1 leading-tight animate-fade-in">
-            I&apos;m a Passionate Engineer who&apos;s focused on building
-            scalable and performant web applications, with growing interest in Agentic AI systems and intelligent automation.{" "}
+            I&apos;m a Software Developer who builds secure, production-grade
+            backend systems — from encrypted payment gateways to
+            real-time platforms handling live financial data at scale.{" "}
           </span>
           <span className="about-2 leading-tight">
-            I take responsibility to craft a good user experience using modern
-           architecture and frameworks,focus on clean UI and performance,enhancing real-world applications{" "}
+            I design clean APIs and resilient architectures with Node.js,
+            Next.js, and MongoDB, pairing solid system design with a strong
+            eye for performant, user-facing interfaces.{" "}
           </span>
         </h2>
       </div>
